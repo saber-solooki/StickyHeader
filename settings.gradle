@@ -1,1 +1,1 @@
-include ':app', ':stickyheader'
+include ':app', ':StickyHeader'
