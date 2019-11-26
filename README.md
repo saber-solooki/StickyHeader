@@ -1,6 +1,6 @@
 # StickyHeader
 Sticky header for recyclerView.
-For more information please see [this website](https://google.com)
+For more information please see [this website](https://medium.com/@saber.solooki/sticky-header-for-recyclerview-c0eb551c3f68)
 
 # Download
 grab lastest version via Maven:
